@@ -3,7 +3,7 @@ This repository contains the scripts I used for the CAS (r)eQTL project.
 
 Preprint: https://www.biorxiv.org/content/10.1101/683086v1
 
-Huang, Q.Q., Tang, H.H.F., Teo, S.M., Ritchie, S.C., Nath, A.P. et al. Neonatal genetics of gene expression reveal the origins of autoimmune and allergic disease risk. Under review. 
+Huang, Q.Q., Tang, H.H.F., Teo, S.M., Ritchie, S.C., Nath, A.P. *et al*. Neonatal genetics of gene expression reveal the origins of autoimmune and allergic disease risk. Under review. 
 
 ## eQTL mapping
 ###	1_Input_data_MatrixeQTL.R
@@ -58,3 +58,5 @@ Select significant causal associations and generate a supplementary table.
 ###	MR_functions_ScottRitchie_2019_04_17.R
 I used this script from Scott Ritchie (https://github.com/sritchie73) to perform MR analysis and generate dose responsive curves.
 
+## Functions
+### CAS_MyFunctions_load_data.R
