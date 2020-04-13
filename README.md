@@ -57,6 +57,3 @@ Perform the MR analysis again using Scott’s codes. The genetic IVs were harmon
 Select significant causal associations and generate a supplementary table.
 ###	MR_functions_ScottRitchie_2019_04_17.R
 I used this script from Scott Ritchie (https://github.com/sritchie73) to perform MR analysis and generate dose responsive curves.
-
-## Functions
-### CAS_MyFunctions_load_data.R
