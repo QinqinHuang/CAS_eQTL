@@ -3,7 +3,9 @@ This repository contains the scripts I used for the CAS (r)eQTL project.
 
 Preprint: https://www.biorxiv.org/content/10.1101/683086v1
 
-Huang, Q.Q., Tang, H.H.F., Teo, S.M., Ritchie, S.C., Nath, A.P. *et al*. Neonatal genetics of gene expression reveal the origins of autoimmune and allergic disease risk. Under review. 
+Peer reviewed article: https://www.nature.com/articles/s41467-020-17477-x
+
+Huang, Q.Q., Tang, H.H.F., Teo, S.M., Ritchie, S.C., Nath, A.P. *et al*. Neonatal genetics of gene expression reveal the origins of autoimmune and allergic disease risk. *Nat Commun* 11, 3761 (2020)
 
 ## eQTL mapping
 ###	1_Input_data_MatrixeQTL.R
